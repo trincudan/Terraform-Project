@@ -1,0 +1,3 @@
+# ignore .tfstate files
+*.tfstate
+*.backup
